@@ -2,6 +2,7 @@
   Breakout
   
   Library by J. French https://github.com/jakefrenchgithub/e-business-card, released to the public domain
+  
   License: MIT, https://opensource.org/licenses/MIT
   
   This is a basic library that mimics the 1976 game, Breakout worked on by Steve Wozniak and Steve Jobs.
@@ -13,6 +14,7 @@
   
   Supporting documentation
   MPU6050Lite library:  https://github.com/jakefrenchgithub/MPU6050Lite
+  
   Background: https://en.wikipedia.org/wiki/Breakout_(video_game)
   
   J. French, 24/7/20
