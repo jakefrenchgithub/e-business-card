@@ -8,7 +8,7 @@
   The Breakout game had influenced Wozniak's design for the Apple II computer, including game paddle,
   color graphics circuitry, sound and graphics commands in BASIC.
 
-  Instead of a hwardware paddle this library uses the MPU6050 accelerometer for measuring roll & pitch,
+  Instead of a hardware paddle this library uses the MPU6050 accelerometer for measuring roll & pitch,
   which are then mapped to 2D coordinates on the OLED display. 
 
   Supporting documentation

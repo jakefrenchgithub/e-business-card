@@ -22,4 +22,5 @@
 
   ![PCB](/images/PCB_and_prototype.png)
   
+  Watch game play here on the prototype:
   [![Watch game play here:](/images/prototype_working.PNG)](https://youtu.be/ByRMUDMNs1Q)
