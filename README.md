@@ -1,4 +1,18 @@
-# e-business-card
-project for a personalised e-business card, which also has a retro 8-bit game
+// Sprite constructor
+Sprite::Sprite(uint8_t* const spritePtr, uint8_t xStart, uint8_t yStart)
+{
+    energyLevel = 1;
+    Ammo = 1;
+    x = xStart;
+    y = yStart;
+    imagePtr = spritePtr;
+}
 
-![PCB](images/front.PNG) ![PCB](images/back.PNG)
+
+// Sprite constructor
+void Sprite::Render()
+{
+    if (Status) 
+        display.drawBitmap(x, y, imagePtr, 5, 6, BLACK); 
+}
+
